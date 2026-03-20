@@ -1,0 +1,1 @@
+# MAI-python-lab6
